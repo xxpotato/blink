@@ -1,5 +1,4 @@
 
-# Blink123777777777890blink1
-
+# Blink123777777777890blink
 
 This repository has an example file to blink the LED on an Arduino board.
